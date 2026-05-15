@@ -1,5 +1,0 @@
-pyrogram
-tgcrypto
-gallery-dl
-Pillow
-motor
