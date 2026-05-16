@@ -1,0 +1,7 @@
+pyrogram
+tgcrypto
+gallery-dl
+Pillow
+Flask
+motor
+aiohttp
